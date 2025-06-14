@@ -1,0 +1,12 @@
+﻿<Project>
+
+  <Import Project="YamlDotNet.csproj"/>
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.1</TargetFrameworks>
+    <SignAssembly>false</SignAssembly>
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+
+</Project>
